@@ -1,4 +1,4 @@
-% MATLAB program for Linear MPC: Single-input system
+% MATLAB program for Linear MPC: Single-input system (alternate code for LMPC_1.m with constraints defined using lb and ub)
 clear all;
 close all
 % System parameters and simulation parameters
